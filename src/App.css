@@ -1,0 +1,33 @@
+html {
+  scroll-behavior: smooth;
+
+}
+
+:root {
+  --techblue: #007bff;
+  --darktext: #333333;
+  --lightbg: #f8f9fc;
+}
+
+body {
+  background-color: var(--lightbg);
+  color: var(--darktext);
+  font-family: "Lato", sans-serif;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: "Poppins", sans-serif;
+}
+
+.btn-custom {
+  background-color: var(--techblue);
+  color: white;
+  border-radius: 8px;
+  padding: 10px 20px;
+  border: none;
+  transition: background 0.3s ease;
+}
+
+.btn-custom:hover {
+  background-color: #005ecb;
+}

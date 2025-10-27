@@ -1,0 +1,14 @@
+.footer-section {
+  background-color: #f8f9fc;
+  color: #333333;
+  font-family: "Lato", sans-serif;
+  border-top: 1px solid #e5e5e5;
+}
+
+.footer-section p {
+  margin: 0;
+}
+
+.footer-section .text-danger {
+  vertical-align: middle;
+}

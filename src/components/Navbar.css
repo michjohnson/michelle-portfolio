@@ -1,0 +1,18 @@
+.navbar {
+  transition: background-color 0.3s ease;
+}
+
+.navbar-brand {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+}
+
+.nav-link {
+  color: #333333 !important;
+  margin-right: 15px;
+  transition: color 0.3s ease;
+}
+
+.nav-link:hover {
+  color: #007bff !important;
+}
