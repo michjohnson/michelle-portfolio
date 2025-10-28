@@ -1,6 +1,6 @@
 html {
   scroll-behavior: smooth;
-
+  scroll-padding-top: 60px;
 }
 
 :root {
@@ -15,7 +15,11 @@ body {
   font-family: "Lato", sans-serif;
 }
 
-h1, h2, h3, h4, h5 {
+h1,
+h2,
+h3,
+h4,
+h5 {
   font-family: "Poppins", sans-serif;
 }
 
